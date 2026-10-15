@@ -1,0 +1,10 @@
+slug: mi-canal
+channel_id: UCxxxxxxxxxxxxxxxxxxxxxx
+niche: ""
+language: es
+audience: ""
+upload_cadence: "2 largos + 5 Shorts / semana"
+goals:
+  ypp_status: not_eligible   # not_eligible | eligible | monetized
+  monthly_revenue_target_usd: 0
+monetization: [adsense, afiliados, patrocinios, membresias]

@@ -1,0 +1,8 @@
+.env
+client_secret*.json
+token*.json
+credentials*.json
+data/*
+!data/.gitkeep
+__pycache__/
+.venv/

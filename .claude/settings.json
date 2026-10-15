@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": ["Read", "Glob", "Grep", "Bash(python scripts/pull_analytics.py:*)"],
+    "ask": ["Bash(git push:*)"],
+    "deny": ["Read(./.env)", "Read(./client_secret*.json)", "Read(./token*.json)"]
+  }
+}
