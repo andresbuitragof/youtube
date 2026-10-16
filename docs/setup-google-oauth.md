@@ -8,3 +8,10 @@
 Mientras la app esté en modo "Prueba" en la pantalla de consentimiento, Google caduca el refresh token a los 7 días; pásala a "En producción" para evitarlo (para uso personal no requiere verificación).
 
 Cada canal de marca requiere autorizar su cuenta; el token da acceso al canal elegido.
+
+## MCP `youtube-studio`
+El servidor no usa `GOOGLE_REFRESH_TOKEN`: hace su propio login la primera vez que llamas a `youtube_auth`.
+1. Descarga el JSON del cliente OAuth (aplicación de escritorio) y guárdalo fuera del repo, por ejemplo en `~/.youtube-mcp/client_secret.json` (ruta por defecto). Si lo pones en otro sitio, exporta `YOUTUBE_MCP_CLIENT_SECRET` con la ruta antes de abrir Claude Code.
+2. El token queda en `~/.youtube-mcp/token.json`.
+3. Su login pide siempre permisos de escritura (`youtube`, `youtube.upload`, `youtube.force-ssl`). Por eso `.claude/settings.json` bloquea borrar videos, comentarios y playlists y la descarga de reportes, y pide confirmación para cualquier cambio.
+4. La versión está fijada a un commit, y `mcp<2` porque el código no funciona con la versión 2 de esa librería. Para actualizar, revisa el diff entre versiones en GitHub antes de cambiar el hash en `.mcp.json`.

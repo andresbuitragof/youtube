@@ -1,17 +1,17 @@
 {
   "mcpServers": {
-    "youtube-transcript": {
-      "command": "npx",
-      "args": ["-y", "@kimtaeyoon83/mcp-server-youtube-transcript"]
-    },
     "youtube-studio": {
       "command": "uvx",
-      "args": ["--from", "git+https://github.com/pauling-ai/youtube-mcp-server", "youtube-mcp-server"],
+      "args": [
+        "--from",
+        "git+https://github.com/pauling-ai/youtube-mcp-server@ec13ee51d4be48ad84cced79fee7d78f9b2f68f8",
+        "--with",
+        "mcp>=1.26,<2",
+        "youtube-studio-mcp"
+      ],
       "env": {
-        "GOOGLE_CLIENT_ID": "${GOOGLE_CLIENT_ID}",
-        "GOOGLE_CLIENT_SECRET": "${GOOGLE_CLIENT_SECRET}",
-        "GOOGLE_REFRESH_TOKEN": "${GOOGLE_REFRESH_TOKEN}",
-        "YOUTUBE_API_KEY": "${YOUTUBE_API_KEY}"
+        "YOUTUBE_MCP_CLIENT_SECRET": "${YOUTUBE_MCP_CLIENT_SECRET:-}",
+        "YOUTUBE_API_KEY": "${YOUTUBE_API_KEY:-}"
       }
     }
   }

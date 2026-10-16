@@ -4,9 +4,9 @@ Proyectos públicos evaluados. Las estrellas son aproximadas; revisar código an
 ## MCP servers
 | Repo | ★ | Uso |
 |---|---|---|
-| pauling-ai/youtube-mcp-server | ~28 | Data + Analytics + Reporting API, 40 tools (elegido: `youtube-studio`) |
+| pauling-ai/youtube-mcp-server | ~28 | Data + Analytics + Reporting API, 40 tools (elegido: `youtube-studio`, fijado a v0.3.0 `ec13ee5`) |
 | ZubeidHendricks/youtube-mcp-server | ~584 | Gestión de videos, Shorts, analítica (alternativa) |
-| kimtaeyoon83/mcp-server-youtube-transcript | ~602 | Transcripciones (elegido) |
+| kimtaeyoon83/mcp-server-youtube-transcript | ~602 | Transcripciones (descartado: npm publica una 0.1.1 de 2024 y youtube-studio ya trae transcripciones) |
 | jkawamoto/mcp-youtube-transcript | ~489 | Transcripciones (alternativa Python) |
 
 ## Skills / toolkits para creadores
