@@ -30,4 +30,4 @@ Marketing (Anthropic), TubeAlfred YouTube, Hyper Marketing, Windsor.ai. Instalar
 Proyectos recientes y pequeños: auditar código y permisos OAuth (mínimo privilegio). No automatizar subidas masivas sin valor añadido.
 
 ## Skills de terceros instaladas
-- `Jakeschincariol/youtube-agent-skill` (MIT), commit `a2feb21` (16 sep 2026): las 11 skills `yt-*` copiadas en `.claude/skills/`. Revisadas: los scripts de Python son locales, sin red ni dependencias. Limitación: `hookscore.py` y el clasificador de fórmulas solo entienden inglés; con ganchos en español todo sale WEAK / Unclassified.
+- `Jakeschincariol/youtube-agent-skill` (MIT), commit `a2feb21` (16 sep 2026): las 11 skills `yt-*` copiadas en `.claude/skills/`. Revisadas: los scripts de Python son locales, sin red ni dependencias. Cambio local: `hookscore.py` y `hooks.json` de `yt-script` ampliados con palabras y patrones en español (el original solo entendía inglés); el resto se copió tal cual.

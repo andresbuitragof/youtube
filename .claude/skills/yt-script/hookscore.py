@@ -20,15 +20,26 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 FORMULAS = json.load(open(os.path.join(HERE, "hooks.json")))["hooks"]
 
 FILLER = {"basically","actually","literally","just","really","very","so","kind","sort","like",
-          "guys","hey","welcome","today","video","subscribe","channel"}
+          "guys","hey","welcome","today","video","subscribe","channel",
+          # Spanish
+          "básicamente","literalmente","solo","realmente","muy","bueno","pues","chicos","hola",
+          "bienvenidos","hoy","suscríbete","canal"}
 VAGUE = {"amazing","incredible","insane","crazy","huge","massive","game","changer","secret",
-         "powerful","ultimate","best","revolutionary","mind","blowing","unbelievable"}
-CONCRETE = re.compile(r"\b(\d[\d,.]*\s?(%|k|m|x|s|m|h)?|\$\d|\d+\s?(second|minute|hour|day|week|month|year)s?)\b", re.I)
-YOU = re.compile(r"\b(you|your|you're|youre|yourself)\b", re.I)
-STAKE = re.compile(r"\b(lose|lost|wasting|waste|quit|fail|broke|cost|risk|before|stop|never|die|dying|dead)\b", re.I)
-CURIOSITY = re.compile(r"\b(why|how|what|which|until|before|but|nobody|almost|except|reason|actually)\b", re.I)
+         "powerful","ultimate","best","revolutionary","mind","blowing","unbelievable",
+         # Spanish
+         "increíble","increible","brutal","loco","enorme","secreto","poderoso","definitivo","mejor",
+         "revolucionario","impresionante"}
+CONCRETE = re.compile(r"\b(\d[\d,.]*\s?(%|k|m|x|s|m|h)?|\$\d|\d+\s?(second|minute|hour|day|week|month|year)s?"
+                      r"|\d+\s?(segundo|minuto|hora|día|dia|semana|mes|año)(s|es)?)\b", re.I)
+YOU = re.compile(r"\b(you|your|you're|youre|yourself"
+                 r"|tú|tu|tus|te|ti|contigo|usted|estás|tienes|eres|puedes|haces|sabes|quieres|necesitas)\b", re.I)
+STAKE = re.compile(r"\b(lose|lost|wasting|waste|quit|fail|broke|cost|risk|before|stop|never|die|dying|dead"
+                   r"|perder|pierdes|perdiendo|perdí|desperdici\w*|abandon\w*|fall\w*|frena\w*|cuesta|costar\w*"
+                   r"|riesgo|antes|deja|nunca|muere|muerto|error|errores)\b", re.I)
+CURIOSITY = re.compile(r"\b(why|how|what|which|until|before|but|nobody|almost|except|reason|actually"
+                       r"|por qué|cómo|qué|cuál|hasta|antes|pero|nadie|casi|excepto|razón|razones|realmente)\b", re.I)
 
-def words(t): return re.findall(r"[a-z0-9'%$.]+", t.lower())
+def words(t): return re.findall(r"[^\W_][\w'%$.]*", t.lower())
 
 def specificity(t):
     w = words(t)
@@ -54,7 +65,7 @@ def curiosity(t):
     n = len(CURIOSITY.findall(t))
     q = 18 if t.strip().endswith("?") else 0
     # a hook that resolves itself has no gap left
-    closed = -18 if re.search(r"\b(because|so that|which means)\b", t, re.I) else 0
+    closed = -18 if re.search(r"\b(because|so that|which means|porque|así que|lo que significa)\b", t, re.I) else 0
     return max(0, min(100, 24 + n * 17 + q + closed))
 
 def brevity(t):
