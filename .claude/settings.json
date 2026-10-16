@@ -1,7 +1,27 @@
 {
   "permissions": {
     "allow": ["Read", "Glob", "Grep", "Bash(python scripts/pull_analytics.py:*)"],
-    "ask": ["Bash(git push:*)"],
-    "deny": ["Read(./.env)", "Read(./client_secret*.json)", "Read(./token*.json)"]
+    "ask": [
+      "Bash(git push:*)",
+      "mcp__youtube-studio__youtube_upload_video",
+      "mcp__youtube-studio__youtube_update_video",
+      "mcp__youtube-studio__youtube_set_thumbnail",
+      "mcp__youtube-studio__youtube_post_comment",
+      "mcp__youtube-studio__youtube_reply_to_comment",
+      "mcp__youtube-studio__youtube_create_playlist",
+      "mcp__youtube-studio__youtube_update_playlist",
+      "mcp__youtube-studio__youtube_add_to_playlist",
+      "mcp__youtube-studio__youtube_remove_from_playlist",
+      "mcp__youtube-studio__youtube_reporting_create_job"
+    ],
+    "deny": [
+      "Read(./.env)",
+      "Read(./client_secret*.json)",
+      "Read(./token*.json)",
+      "mcp__youtube-studio__youtube_delete_video",
+      "mcp__youtube-studio__youtube_delete_comment",
+      "mcp__youtube-studio__youtube_delete_playlist",
+      "mcp__youtube-studio__youtube_reporting_download"
+    ]
   }
 }
