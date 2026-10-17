@@ -1,0 +1,10 @@
+slug: centavo-a-centavo
+channel_id: UCJjfO2Uxi9O3utldI5hXpVA
+niche: "Finanzas personales y crédito para latinos en EE. UU."
+language: es
+audience: "Latinos e inmigrantes en EE. UU. que empiezan sin historial de crédito (SSN o ITIN)"
+upload_cadence: "PENDIENTE (definir según capacidad real)"
+goals:
+  ypp_status: not_eligible   # not_eligible | eligible | monetized
+  monthly_revenue_target_usd: 0   # PENDIENTE
+monetization: [adsense, afiliados, patrocinios, membresias]
