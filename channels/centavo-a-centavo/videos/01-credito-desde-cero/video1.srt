@@ -1,0 +1,783 @@
+1
+00:00:00,120 --> 00:00:01,680
+Llegas a Estados Unidos,
+
+2
+00:00:01,780 --> 00:00:03,160
+vas a rentar un apartamento y te
+
+3
+00:00:03,160 --> 00:00:03,600
+dicen,
+
+4
+00:00:03,940 --> 00:00:05,600
+no tienes historial de crédito.
+
+5
+00:00:05,800 --> 00:00:07,160
+No es que tengas mal crédito,
+
+6
+00:00:07,180 --> 00:00:08,360
+no tienes ninguno.
+
+7
+00:00:08,440 --> 00:00:10,720
+Para el sistema es como si no existieras.
+
+8
+00:00:10,860 --> 00:00:11,800
+Y eso cuesta.
+
+9
+00:00:12,160 --> 00:00:13,840
+Sin crédito pagas depósitos más
+
+10
+00:00:13,840 --> 00:00:15,180
+altos por el apartamento,
+
+11
+00:00:15,420 --> 00:00:16,880
+por la luz y por el celular.
+
+12
+00:00:17,100 --> 00:00:18,380
+Y si te aprueban un carro,
+
+13
+00:00:18,420 --> 00:00:20,060
+es con un interés que duele.
+
+14
+00:00:20,280 --> 00:00:22,300
+En este video te doy el plan exacto,
+
+15
+00:00:22,300 --> 00:00:23,120
+paso a paso,
+
+16
+00:00:23,280 --> 00:00:25,160
+para pasar de cero a un buen puntaje
+
+17
+00:00:25,160 --> 00:00:26,280
+en unos doce meses.
+
+18
+00:00:26,700 --> 00:00:28,360
+Funciona con número de Seguro Social
+
+19
+00:00:28,360 --> 00:00:30,620
+y en muchos casos también con el
+
+20
+00:00:30,620 --> 00:00:31,600
+ITIN.
+
+21
+00:00:31,820 --> 00:00:33,320
+Quédate hasta el paso cuatro porque
+
+22
+00:00:33,320 --> 00:00:34,620
+es el que casi todo el mundo hace
+
+23
+00:00:34,620 --> 00:00:34,920
+mal.
+
+24
+00:00:35,270 --> 00:00:37,120
+Tu puntaje de crédito es una calificación
+
+25
+00:00:37,120 --> 00:00:40,100
+que va de 300 a 850 y dice que
+
+26
+00:00:40,100 --> 00:00:41,400
+qué tan confiable eres para pagar
+
+27
+00:00:41,400 --> 00:00:42,460
+lo que debes.
+
+28
+00:00:42,520 --> 00:00:43,740
+Lo calculan con la información
+
+29
+00:00:43,740 --> 00:00:46,120
+que guardan tres oficinas de crédito,
+
+30
+00:00:46,180 --> 00:00:46,780
+Equifax,
+
+31
+00:00:46,780 --> 00:00:48,560
+Experian y TransUnion.
+
+32
+00:00:48,860 --> 00:00:50,680
+No solo lo usan los bancos,
+
+33
+00:00:50,820 --> 00:00:52,780
+también lo usan los dueños de apartamentos,
+
+34
+00:00:52,900 --> 00:00:54,400
+las aseguradoras y hasta algunos
+
+35
+00:00:54,400 --> 00:00:55,160
+empleadores.
+
+36
+00:00:55,380 --> 00:00:57,640
+Pero por eso no es un tema de tarjetas,
+
+37
+00:00:57,660 --> 00:00:58,960
+es un tema de cuánto te cuesta
+
+38
+00:00:58,960 --> 00:00:59,680
+vivir aquí.
+
+39
+00:01:00,020 --> 00:01:01,560
+El modelo más usado que se llama
+
+40
+00:01:01,560 --> 00:01:03,440
+FICO mira cinco cosas.
+
+41
+00:01:03,660 --> 00:01:04,340
+Primero,
+
+42
+00:01:04,380 --> 00:01:05,680
+tu historial de pagos que vale
+
+43
+00:01:05,680 --> 00:01:08,420
+el 35% si pagas a tiempo.
+
+44
+00:01:08,700 --> 00:01:09,700
+Es lo más importante.
+
+45
+00:01:09,920 --> 00:01:10,600
+Segundo,
+
+46
+00:01:10,700 --> 00:01:13,100
+cuánto debes que vale el 30%.
+
+47
+00:01:13,100 --> 00:01:13,960
+Sobre todo,
+
+48
+00:01:14,060 --> 00:01:15,880
+qué parte de tu límite estás usando.
+
+49
+00:01:16,100 --> 00:01:16,780
+Tercero,
+
+50
+00:01:16,840 --> 00:01:19,380
+la antigüedad que vale el 15%.
+
+51
+00:01:19,380 --> 00:01:21,040
+Cuánto tiempo llevan abiertas tus
+
+52
+00:01:21,040 --> 00:01:21,500
+cuentas.
+
+53
+00:01:21,720 --> 00:01:22,400
+Cuarto,
+
+54
+00:01:22,560 --> 00:01:23,560
+el crédito nuevo,
+
+55
+00:01:23,820 --> 00:01:25,140
+que vale el 10%.
+
+56
+00:01:25,140 --> 00:01:27,060
+Cuántas solicitudes haces en poco
+
+57
+00:01:27,060 --> 00:01:27,720
+tiempo.
+
+58
+00:01:28,040 --> 00:01:28,660
+Y quinto,
+
+59
+00:01:28,920 --> 00:01:30,140
+los tipos de crédito.
+
+60
+00:01:30,280 --> 00:01:31,500
+Otros 10%.
+
+61
+00:01:31,500 --> 00:01:33,200
+Tener tarjetas de crédito y también
+
+62
+00:01:33,200 --> 00:01:33,640
+préstamos.
+
+63
+00:01:33,860 --> 00:01:35,840
+Fíjate que pagar a tiempo y no
+
+64
+00:01:35,840 --> 00:01:38,020
+usar mucho de tu límite suman el
+
+65
+00:01:38,020 --> 00:01:40,100
+65%.
+
+66
+00:01:40,100 --> 00:01:42,120
+Si dominas esos dos ya ganaste
+
+67
+00:01:42,120 --> 00:01:42,980
+la mayor parte.
+
+68
+00:01:43,330 --> 00:01:44,270
+Paso 1.
+
+69
+00:01:44,410 --> 00:01:45,010
+Para empezar,
+
+70
+00:01:45,250 --> 00:01:46,650
+necesitas un número de Seguro Social
+
+71
+00:01:46,650 --> 00:01:47,970
+o un ITIN.
+
+72
+00:01:48,190 --> 00:01:49,890
+Si no tienes ninguno de los dos,
+
+73
+00:01:50,130 --> 00:01:53,190
+el ITIN se pide al IRS y pronto
+
+74
+00:01:53,190 --> 00:01:54,470
+tendré un video explicando cómo
+
+75
+00:01:54,470 --> 00:01:55,010
+funciona.
+
+76
+00:01:55,230 --> 00:01:55,870
+Después,
+
+77
+00:01:56,050 --> 00:01:57,450
+abre una cuenta de cheques en un
+
+78
+00:01:57,450 --> 00:01:59,250
+banco o en una unión de crédito,
+
+79
+00:01:59,330 --> 00:02:01,030
+lo que en inglés llaman credit
+
+80
+00:02:01,030 --> 00:02:01,470
+union.
+
+81
+00:02:01,690 --> 00:02:03,390
+Las uniones de crédito suelen ser
+
+82
+00:02:03,390 --> 00:02:04,870
+más flexibles con quienes acaban
+
+83
+00:02:04,870 --> 00:02:06,710
+de llegar y muchas atienden en
+
+84
+00:02:06,710 --> 00:02:07,110
+español.
+
+85
+00:02:07,460 --> 00:02:08,480
+Paso 2,
+
+86
+00:02:08,540 --> 00:02:09,940
+una tarjeta asegurada.
+
+87
+00:02:10,220 --> 00:02:11,920
+Es la forma más fácil de empezar.
+
+88
+00:02:12,240 --> 00:02:13,520
+Tú dejas un depósito,
+
+89
+00:02:13,520 --> 00:02:14,180
+por ejemplo,
+
+90
+00:02:14,200 --> 00:02:16,460
+300 dólares y ese es tu límite.
+
+91
+00:02:16,520 --> 00:02:18,040
+Como el banco ya tiene tu dinero,
+
+92
+00:02:18,200 --> 00:02:20,480
+casi no te pone trabas para aprobarte.
+
+93
+00:02:20,720 --> 00:02:21,760
+Busca tres cosas.
+
+94
+00:02:21,860 --> 00:02:22,360
+Uno,
+
+95
+00:02:22,420 --> 00:02:23,800
+que no cobre cuota anual.
+
+96
+00:02:24,020 --> 00:02:24,500
+Dos,
+
+97
+00:02:24,660 --> 00:02:26,260
+que reporte a las tres oficinas
+
+98
+00:02:26,260 --> 00:02:27,100
+de crédito,
+
+99
+00:02:27,120 --> 00:02:28,660
+porque si no reporta no te sirve
+
+100
+00:02:28,660 --> 00:02:29,100
+de nada.
+
+101
+00:02:29,380 --> 00:02:29,980
+Y tres,
+
+102
+00:02:30,060 --> 00:02:31,660
+que tenga un camino para graduarte
+
+103
+00:02:31,660 --> 00:02:33,520
+a una tarjeta normal y devolverte
+
+104
+00:02:33,520 --> 00:02:34,520
+el depósito.
+
+105
+00:02:34,520 --> 00:02:36,720
+Algunos bancos y uniones de crédito
+
+106
+00:02:36,720 --> 00:02:39,600
+aceptan ITIN para esas tarjetas.
+
+107
+00:02:39,680 --> 00:02:40,980
+Pregunta antes de solicitar.
+
+108
+00:02:41,330 --> 00:02:43,810
+Paso 3 y este es el truco,
+
+109
+00:02:43,930 --> 00:02:45,610
+usa la tarjeta para un solo gasto
+
+110
+00:02:45,610 --> 00:02:46,530
+fijo y pequeño,
+
+111
+00:02:46,870 --> 00:02:48,370
+como el plan del celular o una
+
+112
+00:02:48,370 --> 00:02:49,270
+suscripción,
+
+113
+00:02:49,630 --> 00:02:51,250
+luego programa el pago automático
+
+114
+00:02:51,250 --> 00:02:52,930
+del saldo completo cada mes,
+
+115
+00:02:53,270 --> 00:02:54,970
+así nunca pagas intereses,
+
+116
+00:02:54,970 --> 00:02:56,790
+nunca te atrasas y cada mes se
+
+117
+00:02:56,790 --> 00:02:57,570
+suma un pago a
+
+118
+00:02:57,910 --> 00:02:58,370
+tiempo.
+
+119
+00:02:58,510 --> 00:02:59,490
+Paso 4.
+
+120
+00:02:59,490 --> 00:03:01,570
+El error que casi todos cometen.
+
+121
+00:03:01,770 --> 00:03:02,970
+Mucha gente piensa que si gasta
+
+122
+00:03:02,970 --> 00:03:04,190
+todo el límite y lo paga,
+
+123
+00:03:04,270 --> 00:03:05,590
+el puntaje sube más rápido.
+
+124
+00:03:06,010 --> 00:03:06,550
+¡Falso!
+
+125
+00:03:06,830 --> 00:03:09,830
+Si tu límite es de 300 y usas 280,
+
+126
+00:03:10,110 --> 00:03:11,690
+tu reporte muestra que estás usando
+
+127
+00:03:11,690 --> 00:03:13,710
+más del 90% de tu crédito.
+
+128
+00:03:13,970 --> 00:03:15,730
+Y eso baja tu puntaje aunque lo
+
+129
+00:03:15,730 --> 00:03:16,470
+pagues completo.
+
+130
+00:03:16,690 --> 00:03:18,750
+La regla es usar menos del 30%
+
+131
+00:03:18,750 --> 00:03:20,710
+de tu límite y mejor aún menos
+
+132
+00:03:20,710 --> 00:03:21,310
+del 10.
+
+133
+00:03:21,670 --> 00:03:23,270
+Con 300 del límite,
+
+134
+00:03:23,270 --> 00:03:25,550
+eso significa gastar menos de 30
+
+135
+00:03:25,550 --> 00:03:27,450
+dólares antes de la fecha de corte.
+
+136
+00:03:27,800 --> 00:03:28,700
+Paso 5,
+
+137
+00:03:28,700 --> 00:03:30,660
+después de unos 6 meses pagando
+
+138
+00:03:30,660 --> 00:03:31,380
+a tiempo,
+
+139
+00:03:31,640 --> 00:03:32,960
+puedes sumar un segundo tipo de
+
+140
+00:03:32,960 --> 00:03:33,480
+crédito.
+
+141
+00:03:33,560 --> 00:03:35,260
+Hay dos opciones comunes.
+
+142
+00:03:35,440 --> 00:03:36,740
+La primera es un préstamo para
+
+143
+00:03:36,740 --> 00:03:38,560
+construir crédito que ofrecen muchas
+
+144
+00:03:38,560 --> 00:03:39,880
+uniones de crédito.
+
+145
+00:03:40,100 --> 00:03:41,480
+Pagas cuotas pequeñas y al final
+
+146
+00:03:41,480 --> 00:03:42,580
+te entregan el dinero.
+
+147
+00:03:42,800 --> 00:03:44,720
+La segunda es ser usuario autorizado.
+
+148
+00:03:45,040 --> 00:03:46,380
+Si alguien de confianza con buen
+
+149
+00:03:46,380 --> 00:03:48,160
+historial te agrega su tarjeta,
+
+150
+00:03:48,260 --> 00:03:49,660
+su historial puede ayudarte.
+
+151
+00:03:49,760 --> 00:03:51,220
+Solo hazlo con alguien que pague
+
+152
+00:03:51,220 --> 00:03:52,080
+siempre a tiempo.
+
+153
+00:03:52,400 --> 00:03:53,060
+Y ojo,
+
+154
+00:03:53,060 --> 00:03:54,920
+no pidas muchas tarjetas a la vez.
+
+155
+00:03:55,280 --> 00:03:56,700
+Cada solicitud te resta un poquito.
+
+156
+00:03:57,050 --> 00:03:58,050
+Paso 6.
+
+157
+00:03:58,250 --> 00:04:00,110
+Revisa tu reporte de crédito gratis
+
+158
+00:04:00,110 --> 00:04:02,970
+en AnnualCreditReport.com.
+
+159
+00:04:03,290 --> 00:04:04,710
+Es el sitio oficial y ahí puedes
+
+160
+00:04:04,710 --> 00:04:06,570
+ver lo que tienen las tres oficinas.
+
+161
+00:04:06,950 --> 00:04:08,010
+Si encuentras un error,
+
+162
+00:04:08,070 --> 00:04:09,590
+como una deuda que no es tuya,
+
+163
+00:04:09,650 --> 00:04:11,510
+puedes disputarlo para que lo corrija.
+
+164
+00:04:11,870 --> 00:04:13,230
+Y no te asustes si al principio
+
+165
+00:04:13,230 --> 00:04:13,990
+no ves nada.
+
+166
+00:04:14,190 --> 00:04:15,750
+Tu primer puntaje aparece después
+
+167
+00:04:15,750 --> 00:04:17,310
+de unos seis meses de tener una
+
+168
+00:04:17,310 --> 00:04:18,100
+cuenta reportando.
+
+169
+00:04:18,450 --> 00:04:19,690
+Resumen del plan.
+
+170
+00:04:19,910 --> 00:04:20,230
+Uno,
+
+171
+00:04:20,310 --> 00:04:22,010
+tu número y una cuenta de banco.
+
+172
+00:04:22,430 --> 00:04:22,910
+Dos,
+
+173
+00:04:23,070 --> 00:04:24,530
+una tarjeta asegurada sin cuota
+
+174
+00:04:24,530 --> 00:04:25,110
+anual.
+
+175
+00:04:25,510 --> 00:04:26,030
+Tres,
+
+176
+00:04:26,190 --> 00:04:27,850
+un gasto pequeño con pago automático
+
+177
+00:04:27,850 --> 00:04:28,910
+del saldo completo.
+
+178
+00:04:29,130 --> 00:04:29,810
+Cuatro,
+
+179
+00:04:29,810 --> 00:04:32,490
+usa menos del 30% de tu límite.
+
+180
+00:04:32,710 --> 00:04:33,330
+Cinco,
+
+181
+00:04:33,330 --> 00:04:34,290
+a los seis meses,
+
+182
+00:04:34,430 --> 00:04:36,010
+suma otro tipo de crédito.
+
+183
+00:04:36,310 --> 00:04:36,910
+Y seis,
+
+184
+00:04:37,150 --> 00:04:38,630
+revisa tu reporte gratis.
+
+185
+00:04:38,980 --> 00:04:40,880
+Si este video te sirvió,
+
+186
+00:04:40,960 --> 00:04:41,900
+cuéntame en los comentarios en
+
+187
+00:04:41,900 --> 00:04:42,600
+qué paso vas.
+
+188
+00:04:42,800 --> 00:04:43,960
+Y si tienes una duda,
+
+189
+00:04:44,200 --> 00:04:45,040
+también déjala ahí.
+
+190
+00:04:45,040 --> 00:04:45,980
+Con esas preguntas,
+
+191
+00:04:46,140 --> 00:04:47,360
+armo los próximos videos.
+
+192
+00:04:47,580 --> 00:04:48,960
+Suscríbete a Centavo a Centavo
+
+193
+00:04:48,960 --> 00:04:50,660
+porque aquí construimos finanzas
+
+194
+00:04:50,660 --> 00:04:51,460
+sanas así,
+
+195
+00:04:51,680 --> 00:04:52,520
+Centavo a Centavo.
+
+196
+00:04:52,720 --> 00:04:53,980
+Nos vemos en el próximo video.
