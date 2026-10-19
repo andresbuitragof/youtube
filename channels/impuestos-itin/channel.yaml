@@ -1,0 +1,10 @@
+slug: impuestos-itin
+channel_id: PENDIENTE   # crear el canal en YouTube y autorizarlo
+niche: "Impuestos e ITIN para inmigrantes latinos en EE. UU."
+language: es
+audience: "Latinos con ITIN o SSN que declaran impuestos por primera vez"
+upload_cadence: "2 largos + 4 Shorts / semana"
+goals:
+  ypp_status: not_eligible
+  monthly_revenue_target_usd: 0   # prueba de 90 días; ver docs/plan-3-canales.md
+monetization: [adsense, afiliados]

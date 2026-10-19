@@ -3,8 +3,8 @@ channel_id: UCJjfO2Uxi9O3utldI5hXpVA
 niche: "Finanzas personales y crédito para latinos en EE. UU."
 language: es
 audience: "Latinos e inmigrantes en EE. UU. que empiezan sin historial de crédito (SSN o ITIN)"
-upload_cadence: "PENDIENTE (definir según capacidad real)"
+upload_cadence: "2 largos + 4 Shorts / semana"
 goals:
   ypp_status: not_eligible   # not_eligible | eligible | monetized
-  monthly_revenue_target_usd: 0   # PENDIENTE
+  monthly_revenue_target_usd: 1000   # meta a 3-6 meses (no en el mes 1); ver docs/plan-3-canales.md
 monetization: [adsense, afiliados, patrocinios, membresias]

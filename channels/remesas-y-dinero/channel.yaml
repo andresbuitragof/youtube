@@ -1,0 +1,10 @@
+slug: remesas-y-dinero
+channel_id: PENDIENTE   # crear el canal en YouTube y autorizarlo
+niche: "Envío de dinero (remesas) y apps financieras para latinos en EE. UU."
+language: es
+audience: "Latinos en EE. UU. que envían dinero a su país"
+upload_cadence: "2 largos + 4 Shorts / semana"
+goals:
+  ypp_status: not_eligible
+  monthly_revenue_target_usd: 0
+monetization: [adsense, afiliados]
