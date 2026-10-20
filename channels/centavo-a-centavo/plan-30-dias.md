@@ -19,7 +19,7 @@ Cadencia de `channel.yaml`: 2 largos (martes y viernes) + 4 Shorts por semana, a
 Ritmo de producción por largo: guion 4 días antes, grabación de voz 3 días antes, edición y Shorts 2 días antes, subida programada 1 día antes.
 
 ## Metas a 30 días (hipótesis, no datos)
-- 9 largos y 18 Shorts publicados en total, contando el video 1 y sus Shorts.
+- 9 largos y 17 Shorts publicados en total, contando el video 1 y sus Shorts.
 - 50–100 suscriptores y alrededor de 1.000 vistas en total. Es una referencia para un canal nuevo, no una promesa.
 - Al menos 1 enlace de afiliado activo, con "Incluye promoción pagada" y el aviso de afiliado.
 
