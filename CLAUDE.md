@@ -12,3 +12,5 @@ Proyecto para administrar varios canales y maximizar monetización.
 
 ## Skills
 channel-audit, video-seo, script-retention, thumbnail-brief, shorts-repurpose, monetization-report, content-calendar.
+
+Skills de terceros (`youtube-agent-skill`, ver `docs/research.md`): yt-audit, yt-chapters, yt-comment, yt-edit, yt-package, yt-plan, yt-retention, yt-script, yt-seo, yt-shorts, yt-viral. Se solapan con las anteriores (audit, seo, shorts, calendario, guion): preferir las propias para estrategia y monetización del proyecto, y las `yt-*` para lo que no cubren (capítulos, edición, retención, comentarios, viral). Sus scripts `.py` requieren Python 3.
