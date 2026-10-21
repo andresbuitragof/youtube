@@ -1,0 +1,57 @@
+[
+    {
+        "model_type":  "t2v_1.3B",
+        "resolution":  "832x480",
+        "video_length":  81,
+        "num_inference_steps":  30,
+        "guidance_scale":  5.0,
+        "flow_shift":  5.0,
+        "seed":  301,
+        "prompt":  "3D Pixar-style children\u0027s cartoon, soft pastel colors, warm golden light, gentle depth of field, smooth animation, wholesome and cheerful, riverside meadow with wetland plants. Pipo, a small cute baby capybara with a round chubby body, soft brown fur, tiny round ears, big shiny black eyes, wearing a little green scarf spreads a checkered picnic blanket under a big tree and places a small basket with a few strawberries, cozy wide shot.",
+        "negative_prompt":  "realistic, scary, dark, violence, text, subtitles, watermark, logo, deformed, extra limbs, blurry, low quality, human, still image"
+    },
+    {
+        "model_type":  "t2v_1.3B",
+        "resolution":  "832x480",
+        "video_length":  81,
+        "num_inference_steps":  30,
+        "guidance_scale":  5.0,
+        "flow_shift":  5.0,
+        "seed":  302,
+        "prompt":  "3D Pixar-style children\u0027s cartoon, soft pastel colors, warm golden light, gentle depth of field, smooth animation, wholesome and cheerful, riverside meadow with wetland plants. Tico, a small bright green frog with big friendly eyes and Mimi, a small gentle turtle with a pink-and-green shell arrive with empty hands and rumbling tummies, Pipo, a small cute baby capybara with a round chubby body, soft brown fur, tiny round ears, big shiny black eyes, wearing a little green scarf counts the few strawberries with a worried face, medium shot.",
+        "negative_prompt":  "realistic, scary, dark, violence, text, subtitles, watermark, logo, deformed, extra limbs, blurry, low quality, human, still image"
+    },
+    {
+        "model_type":  "t2v_1.3B",
+        "resolution":  "832x480",
+        "video_length":  81,
+        "num_inference_steps":  30,
+        "guidance_scale":  5.0,
+        "flow_shift":  5.0,
+        "seed":  303,
+        "prompt":  "3D Pixar-style children\u0027s cartoon, soft pastel colors, warm golden light, gentle depth of field, smooth animation, wholesome and cheerful, riverside meadow with wetland plants. Pipo, a small cute baby capybara with a round chubby body, soft brown fur, tiny round ears, big shiny black eyes, wearing a little green scarf thinks, a lightbulb of an idea above his head as a sparkle, then cuts each strawberry into small pieces with a leaf, close-up.",
+        "negative_prompt":  "realistic, scary, dark, violence, text, subtitles, watermark, logo, deformed, extra limbs, blurry, low quality, human, still image"
+    },
+    {
+        "model_type":  "t2v_1.3B",
+        "resolution":  "832x480",
+        "video_length":  81,
+        "num_inference_steps":  30,
+        "guidance_scale":  5.0,
+        "flow_shift":  5.0,
+        "seed":  304,
+        "prompt":  "3D Pixar-style children\u0027s cartoon, soft pastel colors, warm golden light, gentle depth of field, smooth animation, wholesome and cheerful, riverside meadow with wetland plants. Pipo, a small cute baby capybara with a round chubby body, soft brown fur, tiny round ears, big shiny black eyes, wearing a little green scarf serves a little pile of strawberry pieces to Tico, a small bright green frog with big friendly eyes and Mimi, a small gentle turtle with a pink-and-green shell on big leaves, everyone says thank you with happy bows.",
+        "negative_prompt":  "realistic, scary, dark, violence, text, subtitles, watermark, logo, deformed, extra limbs, blurry, low quality, human, still image"
+    },
+    {
+        "model_type":  "t2v_1.3B",
+        "resolution":  "832x480",
+        "video_length":  81,
+        "num_inference_steps":  30,
+        "guidance_scale":  5.0,
+        "flow_shift":  5.0,
+        "seed":  305,
+        "prompt":  "3D Pixar-style children\u0027s cartoon, soft pastel colors, warm golden light, gentle depth of field, smooth animation, wholesome and cheerful, riverside meadow with wetland plants. Pipo, a small cute baby capybara with a round chubby body, soft brown fur, tiny round ears, big shiny black eyes, wearing a little green scarf, Tico, a small bright green frog with big friendly eyes and Mimi, a small gentle turtle with a pink-and-green shell sit together enjoying the picnic, the basket now also has fruit the friends brought, bright cheerful final shot.",
+        "negative_prompt":  "realistic, scary, dark, violence, text, subtitles, watermark, logo, deformed, extra limbs, blurry, low quality, human, still image"
+    }
+]

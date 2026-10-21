@@ -1,0 +1,14 @@
+slug: capibara-comparte
+channel_id: UCxxxxxxxxxxxxxxxxxxxxxx
+niche: "Cartoons infantiles IA: valores (compartir) con Pipo el capibara"
+language: es
+audience: "Niños 2-6 años y sus padres"
+upload_cadence: "1 episodio/día mientras haya cola (hasta 5 por noche generados)"
+goals:
+  ypp_status: not_eligible   # not_eligible | eligible | monetized
+  monthly_revenue_target_usd: 0
+monetization: [adsense]
+notes:
+  - "Contenido sintético: marcar 'contenido alterado/sintético' al subir."
+  - "Contenido para niños: marcar 'made for kids' (sin comentarios ni anuncios personalizados)."
+  - "Riesgo YPP: contenido masivo/repetitivo sin valor añadido. Dar a cada episodio guion, narración y edición propios."
