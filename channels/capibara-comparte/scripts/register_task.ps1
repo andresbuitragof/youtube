@@ -3,6 +3,6 @@ param([string]$Wan2GPDir = 'C:\AI\Wan2GP', [string]$At = '23:00')
 $script = Join-Path $PSScriptRoot 'run_night.ps1'
 $action = New-ScheduledTaskAction -Execute 'powershell.exe' -Argument "-NoProfile -ExecutionPolicy Bypass -File `"$script`" -Wan2GPDir `"$Wan2GPDir`""
 $trigger = New-ScheduledTaskTrigger -Daily -At $At
-$settings = New-ScheduledTaskSettingsSet -WakeToRun -StartWhenAvailable -ExecutionTimeLimit (New-TimeSpan -Hours 9)
+$settings = New-ScheduledTaskSettingsSet -WakeToRun -StartWhenAvailable -ExecutionTimeLimit (New-TimeSpan -Hours 12)
 Register-ScheduledTask -TaskName 'CapibaraComparte-Noche' -Action $action -Trigger $trigger -Settings $settings -Force
 Write-Host "Tarea registrada: diaria a las $At. Prueba: Start-ScheduledTask -TaskName CapibaraComparte-Noche"
