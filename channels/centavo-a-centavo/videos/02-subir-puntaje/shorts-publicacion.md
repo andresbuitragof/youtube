@@ -6,7 +6,7 @@ Archivos: carpeta `shorts/`. Mismos pasos de Studio que los Shorts del video 1 (
 Título: La cosa que más baja tu puntaje de crédito
 ```
 Pedir muchas tarjetas o préstamos al mismo tiempo baja tu puntaje. Pide solo lo que necesitas y espacia las solicitudes.
-Video completo: VIDEO2_URL
+Video completo: https://youtu.be/038sz3wK3RU
 Contenido educativo. No es asesoría financiera, legal ni fiscal personalizada.
 #Shorts #créditoenUSA #finanzasparalatinos
 ```
@@ -15,7 +15,7 @@ Contenido educativo. No es asesoría financiera, legal ni fiscal personalizada.
 Título: Sube tu puntaje rápido: usa menos de tu límite
 ```
 Con un límite de $1,000 y $900 gastados usas el 90 %. Lo ideal: menos del 30 %, mejor menos del 10 %, y paga antes de la fecha de corte.
-Video completo: VIDEO2_URL
+Video completo: https://youtu.be/038sz3wK3RU
 Contenido educativo. No es asesoría financiera, legal ni fiscal personalizada.
 #Shorts #créditoenUSA #finanzasparalatinos
 ```

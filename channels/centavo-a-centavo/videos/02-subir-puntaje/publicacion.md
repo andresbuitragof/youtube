@@ -1,5 +1,7 @@
 # Video 2: publicación (borrador, sin subir)
 
+Publicado: https://youtu.be/038sz3wK3RU (viernes 23 oct). Shorts programados: https://youtu.be/_c1eea1BPr0 (dom 25) y https://youtu.be/hUi-hdUP6r4 (lun 26).
+
 **Título:** Cómo subir tu puntaje de crédito rápido: qué sí funciona y qué no
 **Duración:** 2:30 · **Miniatura:** pendiente (ver ideas abajo)
 
