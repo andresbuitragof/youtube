@@ -1,0 +1,57 @@
+[
+    {
+        "model_type":  "t2v_1.3B",
+        "resolution":  "832x480",
+        "video_length":  81,
+        "num_inference_steps":  20,
+        "guidance_scale":  5.0,
+        "flow_shift":  5.0,
+        "seed":  1001,
+        "prompt":  "3D Pixar-style children\u0027s cartoon, soft pastel colors, warm golden light, gentle depth of field, smooth animation, wholesome and cheerful, riverside meadow with wetland plants. Mimi, a small gentle turtle with a pink-and-green shell sits alone at the edge of the meadow watching friends play far away, her chin resting on her little paws, wide shot.",
+        "negative_prompt":  "realistic, scary, dark, violence, text, subtitles, watermark, logo, deformed, extra limbs, blurry, low quality, human, still image"
+    },
+    {
+        "model_type":  "t2v_1.3B",
+        "resolution":  "832x480",
+        "video_length":  81,
+        "num_inference_steps":  20,
+        "guidance_scale":  5.0,
+        "flow_shift":  5.0,
+        "seed":  1002,
+        "prompt":  "3D Pixar-style children\u0027s cartoon, soft pastel colors, warm golden light, gentle depth of field, smooth animation, wholesome and cheerful, riverside meadow with wetland plants. Pipo, a small cute baby capybara with a round chubby body, soft brown fur, tiny round ears, big shiny black eyes, wearing a little green scarf notices Mimi, a small gentle turtle with a pink-and-green shell from the game and stops playing, a kind thoughtful look, medium shot.",
+        "negative_prompt":  "realistic, scary, dark, violence, text, subtitles, watermark, logo, deformed, extra limbs, blurry, low quality, human, still image"
+    },
+    {
+        "model_type":  "t2v_1.3B",
+        "resolution":  "832x480",
+        "video_length":  81,
+        "num_inference_steps":  20,
+        "guidance_scale":  5.0,
+        "flow_shift":  5.0,
+        "seed":  1003,
+        "prompt":  "3D Pixar-style children\u0027s cartoon, soft pastel colors, warm golden light, gentle depth of field, smooth animation, wholesome and cheerful, riverside meadow with wetland plants. Pipo, a small cute baby capybara with a round chubby body, soft brown fur, tiny round ears, big shiny black eyes, wearing a little green scarf walks over and waves his paw inviting Mimi, a small gentle turtle with a pink-and-green shell to join, Mimi, a small gentle turtle with a pink-and-green shell lifts her head with a hopeful smile, warm close-up.",
+        "negative_prompt":  "realistic, scary, dark, violence, text, subtitles, watermark, logo, deformed, extra limbs, blurry, low quality, human, still image"
+    },
+    {
+        "model_type":  "t2v_1.3B",
+        "resolution":  "832x480",
+        "video_length":  81,
+        "num_inference_steps":  20,
+        "guidance_scale":  5.0,
+        "flow_shift":  5.0,
+        "seed":  1004,
+        "prompt":  "3D Pixar-style children\u0027s cartoon, soft pastel colors, warm golden light, gentle depth of field, smooth animation, wholesome and cheerful, riverside meadow with wetland plants. Pipo, a small cute baby capybara with a round chubby body, soft brown fur, tiny round ears, big shiny black eyes, wearing a little green scarf, Luna, a small yellow duckling with a tiny red bow, Tico, a small bright green frog with big friendly eyes and Mimi, a small gentle turtle with a pink-and-green shell hold hands and spin in a happy circle, petals floating in the air, joyful shot.",
+        "negative_prompt":  "realistic, scary, dark, violence, text, subtitles, watermark, logo, deformed, extra limbs, blurry, low quality, human, still image"
+    },
+    {
+        "model_type":  "t2v_1.3B",
+        "resolution":  "832x480",
+        "video_length":  81,
+        "num_inference_steps":  20,
+        "guidance_scale":  5.0,
+        "flow_shift":  5.0,
+        "seed":  1005,
+        "prompt":  "3D Pixar-style children\u0027s cartoon, soft pastel colors, warm golden light, gentle depth of field, smooth animation, wholesome and cheerful, riverside meadow with wetland plants. At dusk fireflies glow around Pipo, a small cute baby capybara with a round chubby body, soft brown fur, tiny round ears, big shiny black eyes, wearing a little green scarf, Luna, a small yellow duckling with a tiny red bow, Tico, a small bright green frog with big friendly eyes and Mimi, a small gentle turtle with a pink-and-green shell sitting together by the river, magical heartwarming final shot.",
+        "negative_prompt":  "realistic, scary, dark, violence, text, subtitles, watermark, logo, deformed, extra limbs, blurry, low quality, human, still image"
+    }
+]

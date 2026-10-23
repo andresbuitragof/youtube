@@ -1,0 +1,10 @@
+[
+    {
+        "model_type":  "qwen3_tts_voicedesign",
+        "alt_prompt":  "Una mujer joven latinoamericana, con acento neutro latinoamericano (no de España), voz cálida y dulce de narradora de cuentos infantiles, habla despacio y con ternura",
+        "model_mode":  "spanish",
+        "duration_seconds":  40,
+        "seed":  21,
+        "prompt":  "Mimi cuidaba su flor rosada favorita junto al río.\nSin querer, Pipo la pisó y la flor se rompió.\nPipo la escondió, pero se sintió muy pesado y triste.\nEntonces volvió con Mimi y le contó la verdad.\nMimi lo abrazó y plantaron otra juntos. Decir la verdad nos hace sentir ligeros."
+    }
+]

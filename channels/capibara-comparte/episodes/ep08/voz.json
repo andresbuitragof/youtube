@@ -1,0 +1,10 @@
+[
+    {
+        "model_type":  "qwen3_tts_voicedesign",
+        "alt_prompt":  "Una mujer joven latinoamericana, con acento neutro latinoamericano (no de España), voz cálida y dulce de narradora de cuentos infantiles, habla despacio y con ternura",
+        "model_mode":  "spanish",
+        "duration_seconds":  40,
+        "seed":  21,
+        "prompt":  "Empezó a llover en la pradera y Pipo se quedó bajo un arbusto pequeño.\nTico llegó saltando con una hoja grande como paraguas.\nLa levantó sobre Pipo para que no se mojara.\nPipo lo abrazó y le dio las gracias de corazón.\nSalió un arcoíris. Dar las gracias llena el corazón."
+    }
+]

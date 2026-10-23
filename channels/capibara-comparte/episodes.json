@@ -102,6 +102,101 @@
         "Tico y Mimi se apretaron junto a Pipo, y los tres se abrigaron riendo.",
         "Paró la lluvia y apareció un arcoíris. Compartir el refugio abriga el corazón."
       ]
+    },
+    {
+      "id": "ep06",
+      "title": "Pipo ayuda a Mimi",
+      "moral": "Ayudar es un regalo.",
+      "scenes": [
+        "{Mimi} slowly climbs a grassy hill carrying a big green leaf that is too heavy, her little legs trembling, sunny meadow, wide shot.",
+        "{Pipo} trots past with a happy hop, then stops and glances back at {Mimi} struggling, a small worried frown, medium shot.",
+        "{Pipo} turns around and walks back, his smile returns, he puts his paws under the big leaf to lift it, warm close-up.",
+        "{Pipo} pushes the leaf while {Mimi} walks beside him, both climbing the grassy hill together, teamwork, wide shot.",
+        "{Pipo} and {Mimi} reach the top of the hill and look at the river and the sunset, {Mimi} smiles gratefully, golden light, heartwarming final shot."
+      ],
+      "narration": [
+        "Mimi la tortuga subía una loma con una hoja muy pesada.",
+        "Pipo pasó de largo, pero al mirar atrás vio que Mimi necesitaba ayuda.",
+        "Entonces volvió, sonrió y levantó la hoja con sus patitas.",
+        "Juntos subieron la loma, empujando despacito.",
+        "Al llegar arriba, vieron el atardecer. Ayudar es un regalo."
+      ]
+    },
+    {
+      "id": "ep07",
+      "title": "El castillo de arena",
+      "moral": "Perdonar nos devuelve la alegria.",
+      "scenes": [
+        "{Pipo} proudly finishes a tall sand castle with a leaf flag on a sandy riverbank, sparkles of sunlight, wide shot.",
+        "{Luna} waddles past and accidentally knocks over the sand castle with her wing, sand tumbles down, {Luna} gasps, medium shot.",
+        "{Pipo} crosses his paws and frowns angrily at the broken castle, then notices {Luna} looking sad with big teary eyes, soft close-up.",
+        "{Pipo} takes a deep breath, his face softens, and he gently pats {Luna} on the back with a forgiving smile, tender shot.",
+        "{Pipo}, {Luna} and {Tico} build a new bigger sand castle together, laughing, a bright flag on top, golden light, joyful final shot."
+      ],
+      "narration": [
+        "Pipo terminó un castillo de arena altísimo a la orilla del río.",
+        "Luna pasó corriendo y, sin querer, lo derrumbó.",
+        "Pipo se enojó, pero vio a Luna con los ojitos tristes.",
+        "Respiró hondo, sonrió y la perdonó con una palmadita.",
+        "Juntos construyeron uno más grande. Perdonar nos devuelve la alegría."
+      ]
+    },
+    {
+      "id": "ep08",
+      "title": "El paraguas de Tico",
+      "moral": "Dar las gracias llena el corazon.",
+      "scenes": [
+        "Light rain starts falling on the meadow, {Pipo} shivers under a tiny bush, looking up at the sky with worried eyes, wide shot.",
+        "{Tico} hops over holding a big green leaf like an umbrella and smiles kindly at {Pipo}, medium shot.",
+        "{Tico} lifts the leaf over {Pipo} so he stays dry, raindrops bouncing off the leaf, warm close-up.",
+        "{Pipo} gives {Tico} a big grateful hug and says thank you with a happy bow, tender shot.",
+        "{Pipo} and {Tico} walk side by side under the leaf as the rain stops and a rainbow appears over the meadow, sparkling final shot."
+      ],
+      "narration": [
+        "Empezó a llover en la pradera y Pipo se quedó bajo un arbusto pequeño.",
+        "Tico llegó saltando con una hoja grande como paraguas.",
+        "La levantó sobre Pipo para que no se mojara.",
+        "Pipo lo abrazó y le dio las gracias de corazón.",
+        "Salió un arcoíris. Dar las gracias llena el corazón."
+      ]
+    },
+    {
+      "id": "ep09",
+      "title": "La flor rota",
+      "moral": "Decir la verdad nos hace sentir ligeros.",
+      "scenes": [
+        "{Mimi} proudly shows her favorite pink flower growing by the river, {Pipo} admires it, sunny morning, wide shot.",
+        "{Pipo} accidentally steps on the pink flower and it bends and breaks, he freezes with wide eyes, medium shot.",
+        "{Pipo} hides the broken flower behind a bush and walks away looking heavy and sad, head down, soft close-up.",
+        "{Pipo} returns to {Mimi}, takes a deep breath and shows her the broken flower, his eyes honest and sorry, tender shot.",
+        "{Mimi} hugs {Pipo} and they plant a new little flower together, bright sparkles, warm golden final shot."
+      ],
+      "narration": [
+        "Mimi cuidaba su flor rosada favorita junto al río.",
+        "Sin querer, Pipo la pisó y la flor se rompió.",
+        "Pipo la escondió, pero se sintió muy pesado y triste.",
+        "Entonces volvió con Mimi y le contó la verdad.",
+        "Mimi lo abrazó y plantaron otra juntos. Decir la verdad nos hace sentir ligeros."
+      ]
+    },
+    {
+      "id": "ep10",
+      "title": "Nadie juega solo",
+      "moral": "Invitar a todos hace la fiesta mas bonita.",
+      "scenes": [
+        "{Mimi} sits alone at the edge of the meadow watching friends play far away, her chin resting on her little paws, wide shot.",
+        "{Pipo} notices {Mimi} from the game and stops playing, a kind thoughtful look, medium shot.",
+        "{Pipo} walks over and waves his paw inviting {Mimi} to join, {Mimi} lifts her head with a hopeful smile, warm close-up.",
+        "{Pipo}, {Luna}, {Tico} and {Mimi} hold hands and spin in a happy circle, petals floating in the air, joyful shot.",
+        "At dusk fireflies glow around {Pipo}, {Luna}, {Tico} and {Mimi} sitting together by the river, magical heartwarming final shot."
+      ],
+      "narration": [
+        "Mimi miraba jugar a sus amigos desde lejos, solita.",
+        "Pipo la vio y dejó el juego un momento.",
+        "Se acercó y la invitó con una sonrisa.",
+        "Todos hicieron una ronda y giraron muy contentos.",
+        "Al caer la noche aparecieron las luciérnagas. Invitar a todos hace la fiesta más bonita."
+      ]
     }
   ]
 }

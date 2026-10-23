@@ -1,0 +1,10 @@
+[
+    {
+        "model_type":  "qwen3_tts_voicedesign",
+        "alt_prompt":  "Una mujer joven latinoamericana, con acento neutro latinoamericano (no de España), voz cálida y dulce de narradora de cuentos infantiles, habla despacio y con ternura",
+        "model_mode":  "spanish",
+        "duration_seconds":  40,
+        "seed":  21,
+        "prompt":  "Pipo terminó un castillo de arena altísimo a la orilla del río.\nLuna pasó corriendo y, sin querer, lo derrumbó.\nPipo se enojó, pero vio a Luna con los ojitos tristes.\nRespiró hondo, sonrió y la perdonó con una palmadita.\nJuntos construyeron uno más grande. Perdonar nos devuelve la alegría."
+    }
+]

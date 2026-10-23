@@ -1,0 +1,10 @@
+[
+    {
+        "model_type":  "qwen3_tts_voicedesign",
+        "alt_prompt":  "Una mujer joven latinoamericana, con acento neutro latinoamericano (no de España), voz cálida y dulce de narradora de cuentos infantiles, habla despacio y con ternura",
+        "model_mode":  "spanish",
+        "duration_seconds":  40,
+        "seed":  21,
+        "prompt":  "Mimi miraba jugar a sus amigos desde lejos, solita.\nPipo la vio y dejó el juego un momento.\nSe acercó y la invitó con una sonrisa.\nTodos hicieron una ronda y giraron muy contentos.\nAl caer la noche aparecieron las luciérnagas. Invitar a todos hace la fiesta más bonita."
+    }
+]
