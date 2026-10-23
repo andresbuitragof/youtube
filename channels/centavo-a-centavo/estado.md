@@ -3,7 +3,7 @@
 Canal: **Centavo a Centavo** (@centavoacentavolatam), finanzas en español para latinos en EE. UU., sin cara, voz propia. Ritmo: 2 videos largos por semana (martes y viernes, 6 p. m. Bogotá).
 
 ## Publicado y programado
-- Video 1 (crédito desde cero): https://youtu.be/Scik0zewZKk. 3 Shorts: 18, 20 y 22 oct (el calendario tuvo un Short el sáb 24; ver shorts-publicacion.md del video 1).
+- Video 1 (crédito desde cero): https://youtu.be/Scik0zewZKk. 3 Shorts programados; las fechas exactas están en videos/01-credito-desde-cero/shorts-publicacion.md (el RC reportó el Short 3 el sáb 24, sin verificar).
 - Video 2 (subir puntaje: qué sí y qué no): https://youtu.be/038sz3wK3RU, público el 23 oct, miniatura "4 Sí / 3 No" asignada. Shorts: https://youtu.be/_c1eea1BPr0 (dom 25) y https://youtu.be/hUi-hdUP6r4 (lun 26).
 
 ## Pendiente de Andres en Studio (la API no lo permite)
