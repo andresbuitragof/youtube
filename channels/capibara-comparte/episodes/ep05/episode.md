@@ -23,3 +23,11 @@ Negative prompt (todas las escenas): `realistic, scary, dark, violence, text, su
 ## Escena 5
 
 3D Pixar-style children's cartoon, soft pastel colors, warm golden light, gentle depth of field, smooth animation, wholesome and cheerful, riverside meadow with wetland plants. The rain stops, a bright rainbow appears over the meadow, Pipo, a small cute baby capybara with a round chubby body, soft brown fur, tiny round ears, big shiny black eyes, wearing a little green scarf, Tico, a small bright green frog with big friendly eyes and Mimi, a small gentle turtle with a pink-and-green shell peek out together smiling, magical final shot.
+
+## Narracion
+
+Nubes grises cubrieron la pradera y empezó a llover fuerte, así que Pipo corrió a un huequito bajo una raíz gigante.
+Adentro estaba seco, pero afuera Tico y Mimi temblaban bajo la lluvia, mirando hacia adentro.
+Pipo vio el espacio pequeño y les hizo señas con su patita para que entraran.
+Tico y Mimi se apretaron junto a Pipo, y los tres se abrigaron riendo.
+Paró la lluvia y apareció un arcoíris. Compartir el refugio abriga el corazón.

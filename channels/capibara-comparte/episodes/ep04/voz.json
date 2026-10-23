@@ -1,0 +1,10 @@
+[
+    {
+        "model_type":  "qwen3_tts_voicedesign",
+        "alt_prompt":  "Una mujer joven latinoamericana, con acento neutro latinoamericano (no de España), voz cálida y dulce de narradora de cuentos infantiles, habla despacio y con ternura",
+        "model_mode":  "spanish",
+        "duration_seconds":  40,
+        "seed":  21,
+        "prompt":  "Pipo se columpiaba feliz en una cuerda colgada de un árbol enorme.\nLuna y Mimi esperaban su turno junto al columpio, y Luna movía los piecitos con ansias.\nPipo siguió columpiándose, pero al ver a sus amigas esperando, su sonrisa se apagó un poquito.\nEntonces se bajó, ayudó a Luna a subir y la empujó suavecito.\nDespués le tocó a Mimi, y todos aplaudieron. Esperar tu turno también es compartir."
+    }
+]

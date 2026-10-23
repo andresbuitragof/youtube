@@ -1,0 +1,10 @@
+[
+    {
+        "model_type":  "qwen3_tts_voicedesign",
+        "alt_prompt":  "Una mujer joven latinoamericana, con acento neutro latinoamericano (no de España), voz cálida y dulce de narradora de cuentos infantiles, habla despacio y con ternura",
+        "model_mode":  "spanish",
+        "duration_seconds":  40,
+        "seed":  21,
+        "prompt":  "Pipo extendió su mantel de cuadros bajo un árbol grande, con unas pocas fresas en la canasta.\nTico y Mimi llegaron con las manos vacías y mucha hambre, y Pipo contó las fresas preocupado.\nEntonces a Pipo se le ocurrió una idea, y cortó cada fresa en pedacitos pequeños.\nLes sirvió a Tico y a Mimi sobre unas hojas grandes, y todos dijeron gracias.\nLos tres disfrutaron juntos de la merienda. Con poco para todos, alcanza para todos."
+    }
+]

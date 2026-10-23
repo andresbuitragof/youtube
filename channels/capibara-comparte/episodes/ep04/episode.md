@@ -23,3 +23,11 @@ Negative prompt (todas las escenas): `realistic, scary, dark, violence, text, su
 ## Escena 5
 
 3D Pixar-style children's cartoon, soft pastel colors, warm golden light, gentle depth of field, smooth animation, wholesome and cheerful, riverside meadow with wetland plants. Luna, a small yellow duckling with a tiny red bow hops off and Mimi, a small gentle turtle with a pink-and-green shell takes her turn while Pipo, a small cute baby capybara with a round chubby body, soft brown fur, tiny round ears, big shiny black eyes, wearing a little green scarf and Luna, a small yellow duckling with a tiny red bow cheer and clap, sunset glow, joyful final shot.
+
+## Narracion
+
+Pipo se columpiaba feliz en una cuerda colgada de un árbol enorme.
+Luna y Mimi esperaban su turno junto al columpio, y Luna movía los piecitos con ansias.
+Pipo siguió columpiándose, pero al ver a sus amigas esperando, su sonrisa se apagó un poquito.
+Entonces se bajó, ayudó a Luna a subir y la empujó suavecito.
+Después le tocó a Mimi, y todos aplaudieron. Esperar tu turno también es compartir.

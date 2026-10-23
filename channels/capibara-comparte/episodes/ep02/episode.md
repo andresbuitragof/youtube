@@ -23,3 +23,11 @@ Negative prompt (todas las escenas): `realistic, scary, dark, violence, text, su
 ## Escena 5
 
 3D Pixar-style children's cartoon, soft pastel colors, warm golden light, gentle depth of field, smooth animation, wholesome and cheerful, riverside meadow with wetland plants. Pipo, a small cute baby capybara with a round chubby body, soft brown fur, tiny round ears, big shiny black eyes, wearing a little green scarf, Luna, a small yellow duckling with a tiny red bow and Tico, a small bright green frog with big friendly eyes play a joyful game passing the red ball in a circle, ball bouncing in slow motion, golden light.
+
+## Narracion
+
+Pipo llevó su pelota roja y brillante a la orilla del río.
+Luna quiso jugar con él, pero Pipo escondió la pelota detrás de la espalda.
+Pipo jugó solito, pero se sintió muy triste, mientras Luna lo miraba desde el agua.
+Entonces Pipo caminó hacia ella y le pasó la pelota con una sonrisa.
+Después, con Tico, jugaron todos juntos pasándose la pelota. Los juguetes se disfrutan más con amigos.

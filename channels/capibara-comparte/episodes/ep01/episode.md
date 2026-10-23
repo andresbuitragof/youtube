@@ -23,3 +23,11 @@ Negative prompt (todas las escenas): `realistic, scary, dark, violence, text, su
 ## Escena 5
 
 3D Pixar-style children's cartoon, soft pastel colors, warm golden light, gentle depth of field, smooth animation, wholesome and cheerful, riverside meadow with wetland plants. Pipo, a small cute baby capybara with a round chubby body, soft brown fur, tiny round ears, big shiny black eyes, wearing a little green scarf, Luna, a small yellow duckling with a tiny red bow and Tico, a small bright green frog with big friendly eyes sit in a row eating watermelon slices by the river, laughing, sparkles of sunlight, heartwarming final shot.
+
+## Narracion
+
+Pipo encontró una sandía enorme en la pradera.
+Luna y Tico la miraron con muchas ganas, pero Pipo la abrazó fuerte.
+Pipo intentó comerla solito, pero era tan grande que se cayó rodando.
+Entonces Pipo sonrió, cortó la sandía y les dio un pedazo a sus amigos.
+Compartir hace la sandía más dulce.

@@ -5,7 +5,10 @@ $root = Split-Path -Parent $PSScriptRoot
 $utf8 = New-Object System.Text.UTF8Encoding($false)
 $data = Get-Content (Join-Path $root 'episodes.json') -Raw -Encoding UTF8 | ConvertFrom-Json
 $base = Get-Content (Join-Path $root 'base_settings.json') -Raw -Encoding UTF8 | ConvertFrom-Json
+$voice = Get-Content (Join-Path $root 'voice_settings.json') -Raw -Encoding UTF8 | ConvertFrom-Json
+$music = Get-Content (Join-Path $root 'music_settings.json') -Raw -Encoding UTF8 | ConvertFrom-Json
 New-Item -ItemType Directory -Force (Join-Path $root 'queue') | Out-Null
+[IO.File]::WriteAllText((Join-Path $root 'queue\musica.json'), (ConvertTo-Json -InputObject @($music) -Depth 6), $utf8)
 $all = @()
 $n = 0
 foreach ($ep in $data.episodes) {
@@ -27,6 +30,11 @@ foreach ($ep in $data.episodes) {
         $tasks += [pscustomobject]$t
         $md += "`n## Escena $s`n`n$prompt`n"
     }
+    $md += "`n## Narracion`n`n$($ep.narration -join "`n")`n"
+    $voz = [ordered]@{}
+    foreach ($p in $voice.PSObject.Properties) { $voz[$p.Name] = $p.Value }
+    $voz['prompt'] = ($ep.narration -join "`n")
+    [IO.File]::WriteAllText((Join-Path $dir 'voz.json'), (ConvertTo-Json -InputObject @([pscustomobject]$voz) -Depth 6), $utf8)
     [IO.File]::WriteAllText((Join-Path $dir 'episode.md'), $md, $utf8)
     [IO.File]::WriteAllText((Join-Path $dir 'queue.json'), (ConvertTo-Json -InputObject $tasks -Depth 6), $utf8)
     $all += $tasks

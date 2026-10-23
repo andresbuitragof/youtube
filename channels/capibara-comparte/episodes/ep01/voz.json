@@ -1,0 +1,10 @@
+[
+    {
+        "model_type":  "qwen3_tts_voicedesign",
+        "alt_prompt":  "Una mujer joven latinoamericana, con acento neutro latinoamericano (no de España), voz cálida y dulce de narradora de cuentos infantiles, habla despacio y con ternura",
+        "model_mode":  "spanish",
+        "duration_seconds":  40,
+        "seed":  21,
+        "prompt":  "Pipo encontró una sandía enorme en la pradera.\nLuna y Tico la miraron con muchas ganas, pero Pipo la abrazó fuerte.\nPipo intentó comerla solito, pero era tan grande que se cayó rodando.\nEntonces Pipo sonrió, cortó la sandía y les dio un pedazo a sus amigos.\nCompartir hace la sandía más dulce."
+    }
+]

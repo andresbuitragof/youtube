@@ -1,0 +1,10 @@
+[
+    {
+        "model_type":  "qwen3_tts_voicedesign",
+        "alt_prompt":  "Una mujer joven latinoamericana, con acento neutro latinoamericano (no de España), voz cálida y dulce de narradora de cuentos infantiles, habla despacio y con ternura",
+        "model_mode":  "spanish",
+        "duration_seconds":  40,
+        "seed":  21,
+        "prompt":  "Nubes grises cubrieron la pradera y empezó a llover fuerte, así que Pipo corrió a un huequito bajo una raíz gigante.\nAdentro estaba seco, pero afuera Tico y Mimi temblaban bajo la lluvia, mirando hacia adentro.\nPipo vio el espacio pequeño y les hizo señas con su patita para que entraran.\nTico y Mimi se apretaron junto a Pipo, y los tres se abrigaron riendo.\nParó la lluvia y apareció un arcoíris. Compartir el refugio abriga el corazón."
+    }
+]

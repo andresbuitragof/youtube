@@ -1,0 +1,11 @@
+{
+  "model_type": "stable_audio3_small",
+  "prompt": "Gentle children's lullaby, soft music box and warm acoustic guitar, playful pizzicato strings, cheerful and tender, slow tempo 90 BPM, instrumental",
+  "duration_seconds": 28,
+  "num_inference_steps": 8,
+  "guidance_scale": 1.0,
+  "audio_scale": 0.9,
+  "negative_prompt": "poor quality, distorted, noisy, vocals",
+  "sample_solver": "pingpong",
+  "seed": 11
+}

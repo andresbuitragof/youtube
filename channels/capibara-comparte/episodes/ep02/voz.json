@@ -1,0 +1,10 @@
+[
+    {
+        "model_type":  "qwen3_tts_voicedesign",
+        "alt_prompt":  "Una mujer joven latinoamericana, con acento neutro latinoamericano (no de España), voz cálida y dulce de narradora de cuentos infantiles, habla despacio y con ternura",
+        "model_mode":  "spanish",
+        "duration_seconds":  40,
+        "seed":  21,
+        "prompt":  "Pipo llevó su pelota roja y brillante a la orilla del río.\nLuna quiso jugar con él, pero Pipo escondió la pelota detrás de la espalda.\nPipo jugó solito, pero se sintió muy triste, mientras Luna lo miraba desde el agua.\nEntonces Pipo caminó hacia ella y le pasó la pelota con una sonrisa.\nDespués, con Tico, jugaron todos juntos pasándose la pelota. Los juguetes se disfrutan más con amigos."
+    }
+]
